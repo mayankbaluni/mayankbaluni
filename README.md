@@ -33,7 +33,7 @@ Passionate about leveraging technology to make a difference, I thrive on turning
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** https://www.linkedin.com/in/mayankbaluni/
 - **Email:** mayankbaluni@gmail.com
 
 *“Creating digital experiences that resonate with users and drive business growth.”*

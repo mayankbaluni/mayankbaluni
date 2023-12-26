@@ -1,55 +1,51 @@
 ### Hi there 👋
 
-# Mayank Baluni - Technical Product Manager
+# Mayank Baluni - Technical Product Manager at Carrier Global
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm Mayank, currently steering product development at Carrier Global, with a keen focus on NFTs, Web 3.0, SAAS, and Sports Tech. My journey has taken me from Thomson Digital of the India Today Group to the forefront of digital innovation.
+Hello! I'm Mayank, a dynamic Product Manager at Carrier Global, focusing on Smart and Sustainable Tech, NFTs, Web 3.0, SAAS, and Sports Tech. My 12-year journey in digital product development and delivery has led me from Thomson Digital at the India Today Group to spearheading innovation in the digital space.
 
 ---
 
 ### 💡 Expertise
 
-- **Product-Led Growth:** Specializing in understanding and fulfilling customer needs through innovative product solutions.
-- **Diverse Domain Proficiency:** Extensive experience in Education, Travel, Finance, Sports, Gaming, and E-commerce.
-- **Project Management:** Skilled in managing complex IT projects and leading cross-functional teams across multiple geographies.
+- **Product-Led Growth & SAAS/B2B:** Deep understanding of customer needs, specializing in sectors like Education, Travel, Finance, Sports, Gaming, and E-commerce.
+- **Professional Cloud Architect:** Expertise in cloud solutions for business efficiency and growth.
+- **Cross-Functional Leadership:** Skilled in managing complex IT projects with teams across multiple geographies, focusing on creating scalable, impactful solutions.
 
 ### 🌐 Professional Philosophy
 
-My approach centers on understanding core human behaviors, such as the quest for convenience or happiness, to create scalable and impactful solutions. I believe in creating value at the right time, which has been fundamental in my career.
+I believe in understanding core human behaviors, like the quest for convenience or happiness, to create value at the right time. This approach has been fundamental in my career, especially in optimizing product financial value, subscriber base, revenue, and monetization through strategic analysis and performance metrics.
 
-### 📈 Impact
+### 📈 Impact and Achievements
 
-- **Value Optimization:** Adept at optimizing the financial value of products for large organizations, enhancing subscriber base, revenue, and monetization through strategic analysis and performance metrics.
-- **Consultancy:** Provided consultancy and tech partnership to startups, mid-size companies, and a PE firm, focusing on elevating their product and business values.
+- **Consultancy:** Partnered with startups, mid-size companies, and a PE firm to enhance product and business values.
+- **Carrier Global:** Leading product management for sustainability in the connected cold chain industry.
+- **Thomson Digital - India Today Group:** Developed an outcome-based learning platform, significantly improved customer support processes, and spearheaded a user behavior analytics program.
+- **Sports Tech:** Built a fast-growing sports SAAS platform for cricket, launched India's Biggest Cricket Scholarship program, and led the digital transformation of USA Cricket.
+- **Data Analytics:** Used cloud data warehousing and computer vision for player performance assessments in sports.
 
-### 🌟 Passion
+### 🌟 Recent Projects
 
-Passionate about leveraging technology to make a difference, I thrive on turning complex challenges into simple, user-centric solutions. Let's connect and explore how we can drive growth and innovation together!
+- [Stroke Risk Predictor](https://github.com/mayankbaluni/StrokeRiskPredictor)
+- [Battery Health Monitor](https://github.com/mayankbaluni/BatteryHealthMonitor)
+- [BatHealthPy](https://github.com/mayankbaluni/BatHealthPy)
+- [Battery RUL](https://github.com/mayankbaluni/batteryRUL)
+- [Cali Housing Feature Selection & Dimension Reduction](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction)
+- [**Autonomous Car Documentation**](https://github.com/mayankbaluni/AutonomousCarDocs)
+- [Cali Housing Predictor](https://github.com/mayankbaluni/CaliHousingPredictor)
+- [Engineering Papers Digest](https://github.com/mayankbaluni/EngPapersDigest)
+- [Product Management Resource Library](https://github.com/mayankbaluni/PM-ResourceLibrary)
+- [Code Book Shelf](https://github.com/mayankbaluni/CodeBookShelf)
 
 ---
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** https://www.linkedin.com/in/mayankbaluni/
-- **Email:** mayankbaluni@gmail.com
+- **LinkedIn:** [mayankbaluni](https://www.linkedin.com/in/mayankbaluni/)
+- **Email:** [mayankbaluni@gmail.com](mailto:mayankbaluni@gmail.com)
 
 *“Creating digital experiences that resonate with users and drive business growth.”*
-
-
-<!--
-**mayankbaluni/mayankbaluni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

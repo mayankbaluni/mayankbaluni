@@ -15,6 +15,7 @@ Hello! I'm Mayank, an accomplished Technical Product Manager with over 12 years 
 ### 💡 Expertise
 
 - **Product-Led Growth & SAAS/B2B:** Deep understanding of customer needs, specializing in sectors like Education, Travel, Finance, Sports, Gaming, and E-commerce.
+- Expertise in Mobile Application Lifecycle Management: Proficient in overseeing the entire lifecycle of mobile applications, including the development of cross-platform solutions. My focus is on crafting user-centric designs, ensuring that each application not only meets but exceeds user expectations in functionality and ease of use. My approach integrates advanced methodologies to ensure seamless performance across various platforms, maintaining a strong commitment to delivering high-quality, intuitive, and accessible mobile experiences.
 - **Professional Cloud Architect:** Expertise in cloud solutions for business efficiency and growth.
 - **Cross-Functional Leadership:** Skilled in managing complex IT projects with teams across multiple geographies, focusing on creating scalable, impactful solutions.
 

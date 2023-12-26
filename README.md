@@ -31,7 +31,7 @@ I believe in understanding core human behaviors, like the quest for convenience 
 - **Sports Tech:** Built a fast-growing sports SAAS platform for cricket, launched India's Biggest Cricket Scholarship program, and led the digital transformation of USA Cricket.
 - **Data Analytics:** Used cloud data warehousing and computer vision for player performance assessments in sports.
 
-### 🌟 Recent Projects
+### 🌟 Recent Projects & Knowledge Sharing
 
 - [Stroke Risk Predictor](https://github.com/mayankbaluni/StrokeRiskPredictor)
 - [Battery Health Monitor](https://github.com/mayankbaluni/BatteryHealthMonitor)

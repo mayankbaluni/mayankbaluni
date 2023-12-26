@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 
-Hello! I'm Mayank, a dynamic Product Manager at Carrier Global, focusing on Smart and Sustainable Tech, NFTs, Web 3.0, SAAS, and Sports Tech. My 12-year journey in digital product development and delivery has led me from Thomson Digital at the India Today Group to spearheading innovation in the digital space.
+Hello! I'm Mayank, an accomplished Technical Product Manager with over 12 years of experience leading digital product development and delivery. I specializes in Smart and Sustainable Technology, NFTs, Web 3.0, SAAS, and Sports Tech. Currently at Carrier Global, Mayank is driving product management efforts towards sustainability. He has a proven track record optimizing product value, enhancing revenue, and delivering scalable solutions across education, travel, finance, sports, and e-commerce domains. Key strengths include product-led growth, cloud architecture, strategic consultancy, and leading cross-functional teams globally. Notable achievements include developing a cricket SAAS platform, leading digital transformation initiatives, and enhancing product and business value through consultancy. Mayank is passionate about leveraging technology and understanding core human behaviors to create user-centric solutions that drive business growth.
+
+
 
 ---
 

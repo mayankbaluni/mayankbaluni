@@ -18,6 +18,8 @@
   - Strategic Consultancy
   - Global Team Leadership
 - **Notable Achievements:**
+  - Pioneered an outcome-based educational platform, enhancing learning efficiency through targeted gap analysis, which elevated NPS by 20% and optimized customer support operations, 
+    reducing resolution times and workload by 30% and 25% respectively
   - Architected and scaled a leading sports SAAS platform, recognized for its rapid market adoption and significant contribution to business growth and revenue acceleration
   - Drove digital transformation projects
   - Boosted product/business value through strategic consulting

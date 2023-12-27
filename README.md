@@ -7,9 +7,21 @@
 
 ## 🚀 About Me
 
-Hello! I'm Mayank, an accomplished Technical Product Manager with over 13 years of experience leading digital product development and delivery. I specializes in Smart and Sustainable Technology, NFTs, Web 3.0, SAAS, and Sports Tech. Currently at Carrier Global, I am driving product management efforts towards sustainability. I have a proven track record optimizing product value, enhancing revenue, and delivering scalable solutions across education, travel, finance, sports, and e-commerce domains. Key strengths include product-led growth, cloud architecture, strategic consultancy, and leading cross-functional teams globally. Notable achievements include developing a sports SAAS platform, leading digital transformation initiatives, and enhancing product and business value through consultancy. I am passionate about leveraging technology and understanding core human behaviors to create user-centric solutions that drive business growth.
-
-
+- **Technical Product Manager:** Over 13 years of leadership in digital product development and delivery.
+- **Industry Expertise:** Specializes in Smart Tech, NFTs, Web 3.0, SAAS, and Sports Technology.
+- **Current Role:** Spearheading product management for sustainability at Carrier Global.
+- **Proven Track Record:** Demonstrated success in optimizing product value and revenue across various sectors.
+- **Domains:** Broad experience in Education, Travel, Finance, Sports, and E-commerce.
+- **Key Strengths:**
+  - Product-Led Growth
+  - Cloud Architecture
+  - Strategic Consultancy
+  - Global Team Leadership
+- **Notable Achievements:**
+  - Developed a sports SAAS platform
+  - Drove digital transformation projects
+  - Boosted product/business value through strategic consulting
+- **Driving Force:** A passion for leveraging technology and insight into human behavior to craft user-centric solutions that propel business growth.
 
 ---
 

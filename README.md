@@ -78,6 +78,13 @@ My technical acumen spans a comprehensive array of programming languages and dev
   - **Solidity:** Proficient in crafting secure and efficient smart contracts using Solidity.
   - **MetaMask:** Adept at integrating MetaMask for decentralized application (DApp) interactions on the Ethereum blockchain.
 
+## 🏆 Certifications
+
+- **Certified Scrum Product Owner (CSPO)** - Scrum Alliance
+  - Certificant ID: 001499089
+- **AWS Certified Machine Learning – Specialty**
+  - Candidate ID: AWS04068928
+
 
 ### 🌟 Recent Projects & Knowledge Sharing
 

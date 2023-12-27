@@ -24,8 +24,11 @@
     comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Led the strategic digital transformation of USA Cricket, significantly enhancing its operational efficiency and global engagement through innovative technology solutions
   - Boosted product/business value through strategic consulting
+  - Steered the development of the Harley-Davidson app, enhancing user engagement through H-D Connect, and re-architected Android applications for improved user experience and 
+    retention. Led the integration and creation of key mobile applications for TimesJobs, Adventure Nation, and Micromax, driving significant advancements in customer interaction and 
+    service efficiency
   - Orchestrated major initiatives including the development of eTG complete and the overhaul of McGraw-Hill's ConnectED, significantly boosting digital content engagement and 
-    educational efficiency; adeptly led Wolters Kluwer's online product strategy, performance metrics, driving substantial growth in e-learning for healthcare.
+    educational efficiency; adeptly led Wolters Kluwer's online product strategy, performance metrics, driving substantial growth in e-learning for healthcare
     
 - **Driving Force:** A passion for leveraging technology and insight into human behavior to craft user-centric solutions that propel business growth.
 

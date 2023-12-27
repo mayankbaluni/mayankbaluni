@@ -24,6 +24,8 @@
     comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Led the strategic digital transformation of USA Cricket, significantly enhancing its operational efficiency and global engagement through innovative technology solutions
   - Boosted product/business value through strategic consulting
+  - Engineered the LG mobile ASC app, revolutionizing service center workflows for LG Electronics, and facilitated customer interaction through WAP for CDMA handsets. Pioneered mobile 
+    and community-based integration for Gemstone Universe, enhancing user engagement and digital presence
   - Led the development of high-impact projects including ICICI's iWish and Pockets apps, enhancing user engagement through social integrations, and crafted the PVR Cinemas ticket 
     booking app for MeeGo. Spearheaded Tata Motors' global car launch program and developed a community-focused BBC TV scheduler, along with the innovative Chalo Campus application 
     for Navbharat Times, facilitating expert-student interactions

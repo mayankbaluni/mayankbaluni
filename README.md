@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![Hi](https://fyreops.com/img/working.png)
-
+![Hi](https://drive.google.com/file/d/1KpNoIdIig9umuEIhtfI41c264gh7MUqG/view?usp=sharing)
 
 
 # Mayank Baluni - Technical Product Manager at Carrier Global

@@ -18,7 +18,7 @@
   - Strategic Consultancy
   - Global Team Leadership
 - **Notable Achievements:**
-  - Developed a sports SAAS platform
+  - Architected and scaled a leading sports SAAS platform, recognized for its rapid market adoption and significant contribution to business growth and revenue acceleration
   - Drove digital transformation projects
   - Boosted product/business value through strategic consulting
 - **Driving Force:** A passion for leveraging technology and insight into human behavior to craft user-centric solutions that propel business growth.

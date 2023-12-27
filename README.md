@@ -24,6 +24,9 @@
     comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Led the strategic digital transformation of USA Cricket, significantly enhancing its operational efficiency and global engagement through innovative technology solutions
   - Boosted product/business value through strategic consulting
+  - Orchestrated major initiatives including the development of eTG complete and the overhaul of McGraw-Hill's ConnectED, significantly boosting digital content engagement and 
+    educational efficiency; adeptly led Wolters Kluwer's online product strategy, performance metrics, driving substantial growth in e-learning for healthcare.
+    
 - **Driving Force:** A passion for leveraging technology and insight into human behavior to craft user-centric solutions that propel business growth.
 
 ---

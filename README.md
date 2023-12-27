@@ -11,7 +11,7 @@
 - **Industry Expertise:** Specializes in Smart Tech, NFTs, Web 3.0, SAAS, and Sports Technology.
 - **Current Role:** Spearheading product management for sustainability at Carrier Global.
 - **Proven Track Record:** Demonstrated success in optimizing product value and revenue across various sectors.
-- **Domains:** Broad experience in Education, Travel, Finance, Sports, and E-commerce.
+- **Domains:** Broad experience in Connectd Cold Chain Logistics, Education, Travel, Finance, Sports, and E-commerce.
 - **Key Strengths:**
   - Product-Led Growth
   - Cloud Architecture

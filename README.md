@@ -81,9 +81,9 @@ My technical acumen spans a comprehensive array of programming languages and dev
 ## 🏆 Certifications
 
 - **Certified Scrum Product Owner (CSPO)** - Scrum Alliance
-  - Certificant ID: 001499089
+  - Certificant/Candidate ID: 001499089
 - **AWS Certified Machine Learning – Specialty**
-  - Candidate ID: AWS04068928
+  - Certificant/Candidate ID: AWS04068928
 
 
 ### 🌟 Recent Projects & Knowledge Sharing

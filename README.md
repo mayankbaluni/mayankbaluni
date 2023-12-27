@@ -24,6 +24,9 @@
     comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Led the strategic digital transformation of USA Cricket, significantly enhancing its operational efficiency and global engagement through innovative technology solutions
   - Boosted product/business value through strategic consulting
+  - Facilitated a significant design and social tech transformation for Magicbricks, coupled with a strategic overhaul of 4000+ lines of code to enhance efficiency. Innovatively led 
+    Agile ideation at Indiabulls Housing Finance, achieving a 40% increase in employee-driven innovations for the IB Chat service, streamlining customer interactions through 
+    conversational interfaces
   - Steered the development of the Harley-Davidson app, enhancing user engagement through H-D Connect, and re-architected Android applications for improved user experience and 
     retention. Led the integration and creation of key mobile applications for TimesJobs, Adventure Nation, and Micromax, driving significant advancements in customer interaction and 
     service efficiency

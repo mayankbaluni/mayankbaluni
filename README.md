@@ -34,6 +34,7 @@ I believe in understanding core human behaviors, like the quest for convenience 
 ### 🌟 Recent Projects & Knowledge Sharing
 
 - [Stroke Risk Predictor](https://github.com/mayankbaluni/StrokeRiskPredictor)
+- [Hand Written Image Retrieval ](https://github.com/mayankbaluni/HandWrittenImageRetrieval)
 - [Battery Health Monitor](https://github.com/mayankbaluni/BatteryHealthMonitor)
 - [BatHealthPy](https://github.com/mayankbaluni/BatHealthPy)
 - [Battery RUL](https://github.com/mayankbaluni/batteryRUL)

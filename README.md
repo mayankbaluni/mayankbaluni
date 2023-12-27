@@ -60,6 +60,7 @@ My technical acumen spans a comprehensive array of programming languages and dev
 - [Cali Housing Feature Selection & Dimension Reduction](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction)
 - [**Autonomous Car Documentation**](https://github.com/mayankbaluni/AutonomousCarDocs)
 - [Cali Housing Predictor](https://github.com/mayankbaluni/CaliHousingPredictor)
+- [LLM Streamlit Data Converser](https://github.com/mayankbaluni/LLM-Streamlit-Data-Converser)
 - [Engineering Papers Digest](https://github.com/mayankbaluni/EngPapersDigest)
 - [Product Management Resource Library](https://github.com/mayankbaluni/PM-ResourceLibrary)
 - [Code Book Shelf](https://github.com/mayankbaluni/CodeBookShelf)

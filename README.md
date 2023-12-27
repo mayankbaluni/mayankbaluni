@@ -38,7 +38,6 @@ I believe in understanding core human behaviors, like the quest for convenience 
 My technical acumen spans a comprehensive array of programming languages and development frameworks, dedicated to delivering innovative and scalable solutions:
 
 - **Android Development:** Proficient in developing responsive and high-performance Android applications with a focus on user experience.
-- **Java:** Extensive experience with Java for building robust enterprise-level applications, as well as for crafting sophisticated Android applications.
 - **Flutter:** Skilled in Flutter for creating visually stunning, natively compiled cross-platform applications from a unified codebase.
 - **Python:** Advanced proficiency in Python for backend development, scripting, data analysis, and automation. 
 - **Machine Learning & Data Analytics:**

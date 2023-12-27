@@ -33,6 +33,24 @@ I believe in understanding core human behaviors, like the quest for convenience 
 - **Sports Tech:** Built a fast-growing sports SAAS platform for cricket, launched India's Biggest Cricket Scholarship program, and led the digital transformation of USA Cricket.
 - **Data Analytics:** Used cloud data warehousing and computer vision for player performance assessments in sports.
 
+## 💻 Technical Skills
+
+My technical acumen spans a comprehensive array of programming languages and development frameworks, dedicated to delivering innovative and scalable solutions:
+
+- **Android Development:** Proficient in developing responsive and high-performance Android applications with a focus on user experience.
+- **Java:** Extensive experience with Java for building robust enterprise-level applications, as well as for crafting sophisticated Android applications.
+- **Flutter:** Skilled in Flutter for creating visually stunning, natively compiled cross-platform applications from a unified codebase.
+- **Python:** Advanced proficiency in Python for backend development, scripting, data analysis, and automation. 
+- **Machine Learning & Data Analytics:**
+  - **PyTorch:** Expertise in leveraging PyTorch for building and deploying machine learning models.
+  - **Data Analytics Libraries:** Proficient in utilizing Python libraries such as Pandas for data manipulation and analysis.
+  - **Data Visualization & Interactive Apps:** Experienced in employing libraries like Matplotlib, Seaborn, and tools like Streamlit to create interactive data visualizations and applications.
+- **Blockchain Development:**
+  - **Truffle Suite:** Experience with Truffle for developing, testing, and deploying Ethereum smart contracts.
+  - **Solidity:** Proficient in crafting secure and efficient smart contracts using Solidity.
+  - **MetaMask:** Adept at integrating MetaMask for decentralized application (DApp) interactions on the Ethereum blockchain.
+
+
 ### 🌟 Recent Projects & Knowledge Sharing
 
 - [Stroke Risk Predictor](https://github.com/mayankbaluni/StrokeRiskPredictor)

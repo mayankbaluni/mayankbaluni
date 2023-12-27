@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Mayank Baluni - Technical Product Manager at Carrier Global
+# Mayank Baluni - Technical Product Manager at Carrier Global Corporation
 
 ---
 

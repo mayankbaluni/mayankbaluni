@@ -17,6 +17,7 @@ Hello! I'm Mayank, an accomplished Technical Product Manager with over 13 years 
 - **Product-Led Growth & SAAS/B2B:** Deep understanding of customer needs, specializing in sectors like Education, Travel, Finance, Sports, Gaming, and E-commerce.
 - **Expertise in Mobile Application Lifecycle Management:** Proficient in overseeing the entire lifecycle of mobile applications, including the development of cross-platform solutions. My focus is on crafting user-centric designs, ensuring that each application not only meets but exceeds user expectations in functionality and ease of use. My approach integrates advanced methodologies to ensure seamless performance across various platforms, maintaining a strong commitment to delivering high-quality, intuitive, and accessible mobile experiences.
 - **Professional Cloud Architect:** Expertise in cloud solutions for business efficiency and growth.
+- **AWS Certified Machine Learning Specialist:** Possessing advanced proficiency in AWS's machine learning services, I leverage cutting-edge AI technologies to build and deploy scalable machine learning solutions. My expertise encompasses the full spectrum of AWS ML tools, enabling data-driven decision-making and innovative AI-driven products that meet the evolving demands of modern businesses.
 - **Cross-Functional Leadership:** Skilled in managing complex IT projects with teams across multiple geographies, focusing on creating scalable, impactful solutions.
 
 ### 🌐 Professional Philosophy

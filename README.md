@@ -1,6 +1,3 @@
-[![MasterHead](https://fyreops.com/img/working.png)](https://www.linkedin.com/in/mayankbaluni/)
-
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://fyreops.com/img/working.png)")
 ### Hi there 👋
 
 # Mayank Baluni - Technical Product Manager at Carrier Global

@@ -20,7 +20,8 @@
 - **Notable Achievements:**
   - Pioneered an outcome-based educational platform, enhancing learning efficiency through targeted gap analysis, which elevated NPS by 20% and optimized customer support operations, 
     reducing resolution times and workload by 30% and 25% respectively
-  - Architected and scaled a leading sports SAAS platform, recognized for its rapid market adoption and significant contribution to business growth and revenue acceleration
+  - Engineered and launched a groundbreaking sports SAAS platform for cricket, rapidly scaling to support over 10,000 leagues and 1.5+ million players globally within 2.5 years. This 
+    comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Drove digital transformation projects
   - Boosted product/business value through strategic consulting
 - **Driving Force:** A passion for leveraging technology and insight into human behavior to craft user-centric solutions that propel business growth.

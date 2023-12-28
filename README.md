@@ -20,14 +20,10 @@
 - **Notable Achievements:**
   - Pioneered an outcome-based educational platform, enhancing learning efficiency through targeted gap analysis, which elevated NPS by 20% and optimized customer support operations, 
     reducing resolution times and workload by 30% and 25% respectively
-      <img src="https://www.qanditoday.com/wp-content/uploads/2023/12/QI-website-banner-screen-2-option_V1.2_a.png" width="650" height="250"/>
 
   - Engineered and launched a groundbreaking sports SAAS platform for cricket, rapidly scaling to support over 10,000 leagues and 1.5+ million players globally within 2.5 years. This 
     comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Led the strategic digital transformation of USA Cricket, significantly enhancing its operational efficiency and global engagement through innovative technology solutions
-
-      <img src="https://usacricket.org/wp-content/uploads/2018/03/usacricket-logo.svg" width="650" height="250"/>
-
 
     
   - Boosted product/business value through strategic consulting

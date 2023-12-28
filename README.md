@@ -82,7 +82,7 @@ My technical acumen spans a comprehensive array of programming languages and dev
 
 <p float="left">
   <img src="https://www.adventureswithagile.com/wp-content/uploads/2023/05/Cert-CSPO-Logo.png" width="150" height="150"/>
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="120" height="120"/>
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png" width="150" height="150"/>
 </p>
 
 - **Certified Scrum Product Owner (CSPO)** - Scrum Alliance

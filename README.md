@@ -18,6 +18,9 @@
   - Strategic Consultancy
   - Global Team Leadership
 - **Notable Achievements:**
+  - At Carrier Global, I've excelled in driving Agile product development and fostering deep stakeholder relationships, leading to the creation of AI-driven predictive models that 
+    have significantly improved electric vehicle battery health and operational efficiency. My strategic approach has consistently positioned our fleet management solutions at the 
+    forefront of the electrification industry.
   - Pioneered an outcome-based educational platform, enhancing learning efficiency through targeted gap analysis, which elevated NPS by 20% and optimized customer support operations, 
     reducing resolution times and workload by 30% and 25% respectively
 

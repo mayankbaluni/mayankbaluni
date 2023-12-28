@@ -80,6 +80,9 @@ My technical acumen spans a comprehensive array of programming languages and dev
 
 ## 🏆 Certifications
 
+<img src="https://www.adventureswithagile.com/wp-content/uploads/2023/05/Cert-CSPO-Logo.png" width="150" height="150">
+
+
 - **Certified Scrum Product Owner (CSPO)** - Scrum Alliance
   - Certificant/Candidate ID: 001499089
 - **AWS Certified Machine Learning – Specialty**

@@ -25,6 +25,12 @@
   - Engineered and launched a groundbreaking sports SAAS platform for cricket, rapidly scaling to support over 10,000 leagues and 1.5+ million players globally within 2.5 years. This 
     comprehensive management solution, featuring instant setup and diverse functionalities, is now a choice tool for major sports organizations worldwide
   - Led the strategic digital transformation of USA Cricket, significantly enhancing its operational efficiency and global engagement through innovative technology solutions
+
+      <img src=" https://documents.yumpu.com/000/065/174/608/017e4648cef98bbf92c63280b68eab131fe12de8/4d6633657a2b6154366a6b616e3559725768796b6f513d3d/images/bg001_00.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1703750400&Signature=WnvomDDT0RECrjDsEZz%2FSWLc9zw%3D
+" width="650" height="250"/>
+
+
+    
   - Boosted product/business value through strategic consulting
   - Engineered the LG mobile ASC app, revolutionizing service center workflows for LG Electronics, and facilitated customer interaction through WAP for CDMA handsets. Pioneered mobile 
     and community-based integration for Gemstone Universe, enhancing user engagement and digital presence

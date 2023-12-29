@@ -97,6 +97,9 @@ My technical acumen spans a comprehensive array of programming languages and dev
   - Certificant/Candidate ID: 001499089
 - **AWS Certified Machine Learning – Specialty**
   - Certificant/Candidate ID: AWS04068928
+- **GCP Certified Professional Cloud Architect **
+ 
+
 
 
 ### 🌟 Recent Projects & Knowledge Sharing

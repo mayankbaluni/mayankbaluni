@@ -106,6 +106,7 @@ My technical acumen spans a comprehensive array of programming languages and dev
 ### 🌟 Recent Projects & Knowledge Sharing
 
 - [Stroke Risk Predictor](https://github.com/mayankbaluni/StrokeRiskPredictor)
+- [Battery Remaining Useful Life Prediction](https://github.com/mayankbaluni/Battery_Remaining_Useful_Life)
 - [Image Segmentation](https://github.com/mayankbaluni/image_segmentation)
 - [Hand Written Image Retrieval ](https://github.com/mayankbaluni/HandWrittenImageRetrieval)
 - [Battery Health Monitor](https://github.com/mayankbaluni/BatteryHealthMonitor)

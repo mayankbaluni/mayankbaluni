@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Certified Product Owner, AWS Machine Learning, and Cloud Architect. Expert in Product Management
+# Product leader | Machine learning | Agile delivery | Certified AWS ML & GCP Cloud architect & Product Owner
 
 ---
 

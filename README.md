@@ -112,6 +112,7 @@ My technical acumen spans a comprehensive array of programming languages and dev
 - [Battery Health Monitor](https://github.com/mayankbaluni/BatteryHealthMonitor)
 - [BatHealthPy](https://github.com/mayankbaluni/BatHealthPy)
 - [Battery RUL](https://github.com/mayankbaluni/batteryRUL)
+- [ML Notebooks Updated Examples](https://github.com/mayankbaluni/ML_Examples_1)
 - [ML Notebooks Examples](https://github.com/mayankbaluni/ML_Examples)
 - [Cali Housing Feature Selection & Dimension Reduction](https://github.com/mayankbaluni/CaliHousingFeatSelectionDimReduction)
 - [**Autonomous Car Documentation**](https://github.com/mayankbaluni/AutonomousCarDocs)

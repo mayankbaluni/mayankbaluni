@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Mayank Baluni - Technical Product Manager at Carrier Global Corporation
+# Mayank Baluni - Certified Product Owner, AWS Machine Learning Specialist, and Cloud Architect with comprehensive expertise in Product Management
 
 ---
 

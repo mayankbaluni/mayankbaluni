@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Certified in Product Ownership, AWS Machine Learning, and Cloud Architecture. Expert in Product Management
+# Certified Product Owner, AWS Machine Learning, and Cloud Architect. Expert in Product Management
 
 ---
 

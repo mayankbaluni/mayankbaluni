@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Mayank Baluni - Certified Product Owner, AWS Machine Learning Specialist, and Cloud Architect with comprehensive expertise in Product Management
+# Certified in Product Ownership, AWS Machine Learning, and Cloud Architecture. Expert in Product Management
 
 ---
 

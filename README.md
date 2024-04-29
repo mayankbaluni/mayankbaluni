@@ -126,11 +126,6 @@ My technical acumen spans a comprehensive array of programming languages and dev
 
 ### 📫 Connect with Me
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/mayankbaluni"
-
 - **LinkedIn:** [mayankbaluni](https://www.linkedin.com/in/mayankbaluni/)
 - **Email:** [mayankbaluni@gmail.com](mailto:mayankbaluni@gmail.com)
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Product leader | Machine learning | Agile delivery | Certified AWS ML & GCP Cloud architect & Product Owner
+# Agile AI Product Leader | Certified Multi-Cloud Architect (AWS/GCP)
 
 ---
 

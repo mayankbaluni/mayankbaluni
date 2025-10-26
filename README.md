@@ -83,6 +83,26 @@ My technical acumen spans a comprehensive array of programming languages and dev
   - **Truffle Suite:** Experience with Truffle for developing, testing, and deploying Ethereum smart contracts.
   - **Solidity:** Proficient in crafting secure and efficient smart contracts using Solidity.
   - **MetaMask:** Adept at integrating MetaMask for decentralized application (DApp) interactions on the Ethereum blockchain.
+ 
+### 🧰 Languages & Tools
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css&theme=dark" />
+  <br />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,react,reactnative,nodejs,express,flutter,tailwind,bootstrap&theme=dark" />
+  <br />
+
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,azure,gcp,lambda,s3,dynamodb&theme=dark" />
+  <br />
+
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash,git,github,githubactions,circleci,vscode,postman,figma&theme=dark" />
+</p>
+
 
 ## 🏆 Certifications
 
